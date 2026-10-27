@@ -1,0 +1,21 @@
+Oct 26 08:01:07 srv01 sshd[1001]: Accepted password for juan from 192.168.1.20 port 51001 ssh2
+Oct 26 08:02:14 srv01 sshd[1002]: Failed password for root from 203.0.113.5 port 51002 ssh2
+Oct 26 08:03:21 srv01 sshd[1003]: Failed password for invalid user admin from 203.0.113.5 port 51003 ssh2
+Oct 26 08:04:28 srv01 sshd[1004]: Failed password for invalid user admin from 203.0.113.5 port 51004 ssh2
+Oct 26 08:05:35 srv01 sshd[1005]: Failed password for invalid user test from 203.0.113.5 port 51005 ssh2
+Oct 26 08:06:42 srv01 sshd[1006]: Failed password for root from 203.0.113.5 port 51006 ssh2
+Oct 26 08:07:49 srv01 sshd[1007]: Failed password for invalid user ubuntu from 203.0.113.5 port 51007 ssh2
+Oct 26 08:08:56 srv01 sshd[1008]: Failed password for root from 203.0.113.5 port 51008 ssh2
+Oct 26 08:09:03 srv01 sshd[1009]: Failed password for invalid user admin from 203.0.113.5 port 51009 ssh2
+Oct 26 08:10:10 srv01 sshd[1010]: Accepted password for admin from 203.0.113.5 port 51010 ssh2
+Oct 26 08:11:17 srv01 sshd[1011]: Failed password for maria from 198.51.100.7 port 51011 ssh2
+Oct 26 08:12:24 srv01 sshd[1012]: Failed password for maria from 198.51.100.7 port 51012 ssh2
+Oct 26 08:13:31 srv01 sshd[1013]: Failed password for maria from 198.51.100.7 port 51013 ssh2
+Oct 26 08:14:38 srv01 sshd[1014]: Accepted password for maria from 198.51.100.7 port 51014 ssh2
+Oct 26 08:15:45 srv01 CRON[2001]: pam_unix(cron:session): session opened for user root
+Oct 26 08:16:52 srv01 sshd[1015]: Accepted password for lucia from 192.168.1.31 port 51015 ssh2
+Oct 26 08:17:59 srv01 sshd[1016]: Failed password for root from 203.0.113.99 port 51016 ssh2
+Oct 26 08:18:06 srv01 sshd[1017]: Failed password for root from 203.0.113.99 port 51017 ssh2
+Oct 26 08:19:13 srv01 sshd[1018]: Failed password for root from 203.0.113.99 port 51018 ssh2
+Oct 26 08:20:20 srv01 sshd[1019]: Failed password for root from 203.0.113.99 port 51019 ssh2
+Oct 26 08:21:27 srv01 sshd[1020]: Failed password for root from 203.0.113.99 port 51020 ssh2
